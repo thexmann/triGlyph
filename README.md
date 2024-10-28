@@ -5,7 +5,6 @@
 
 ## Features
 - Encrypt and decrypt files or strings using a secret key.
-- Specify encryption version (currently version 1 supported).
 - GUI for easy file encryption/decryption without command-line commands.
 - Windows executables for direct use without installing Python.
 - Randomized output filenames for encrypted files.
