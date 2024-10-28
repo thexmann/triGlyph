@@ -1,7 +1,7 @@
 # triGlyph Encryptor/Decryptor
 
 ## Overview
-`triGlyph` is a file and text encryption/decryption tool that uses unique character mappings and random number generators based on a user-provided key. It supports encryption and decryption of both files and strings. The project includes a command-line interface (`CLI`), a graphical user interface (`GUI`), and Windows executable files for easy usage without needing Python installed.
+`triGlyph` is a file and text symetrical encryption/decryption tool that uses unique character mappings and random number generators based on a user-provided key. It supports encryption and decryption of both files and strings. The project includes a command-line interface (`CLI`), a graphical user interface (`GUI`), and Windows executable files for easy usage without needing Python installed.
 
 ## Features
 - Encrypt and decrypt files or strings using a secret key.
